@@ -1,1 +1,1 @@
-Sitemap: https://www.sdmcrae.com/sitemap.xml
+Sitemap: https://sdmcrae.github.io/sitemap.xml
