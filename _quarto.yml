@@ -9,7 +9,7 @@ execute:
 
 website:
   title: "Shaun McRae"
-  site-url: "https://www.sdmcrae.com"
+  site-url: "https://sdmcrae.github.io"
   navbar:
     background: "#536878"
     left:
