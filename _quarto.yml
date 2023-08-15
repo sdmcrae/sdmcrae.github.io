@@ -1,0 +1,38 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+
+execute:
+  freeze: auto
+
+website:
+  title: "Shaun McRae"
+  site-url: "https://www.sdmcrae.com"
+  navbar:
+    background: "#536878"
+    left:
+      - href: research/index.qmd
+        text: Research
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: advising/index.qmd
+        text: Advising
+      - href: about/index.qmd
+        text: About
+  page-footer:
+    background: "#536878"
+
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    theme: tango
+    css: styles.css
+    html-math-method: katex
+    include-in-header:
+      file: header.html
+
+
+

@@ -1,0 +1,119 @@
+# Future advisees
+
+I am available to advise current ITAM students on their undergraduate or Master's theses about empirical topics in applied microeconomics. The minimum requirements are:
+
+1. you have taken at least one of my courses on applied microeconometrics, industrial organization, energy economics, natural resource economics, or the research seminar;
+2. you have taken the applied microeconometrics course (either with me or with another professor) and are comfortable using R or Stata; 
+3. you are still taking classes at ITAM; and
+3. for undergraduates, you have a GPA of at least 8.5 (this is an ITAM requirement for writing a thesis).
+
+If you are interested in working with me, please send me an email or come to my office hours to discuss possible thesis topics. Note that if you plan to write a *tesina*, you should enroll in my undergraduate Research Seminar.
+
+
+# Former students
+
+*Notes in italics: subsequent graduate study (for undergraduates and Master's students); initial placement (for Ph.D. students).*
+
+### Undergraduate Theses (ITAM)
+
+- Jordán Mosqueda Juárez, "Asymmetric Pass-Through in the Recently Liberalized Retail Gasoline Market of Mexico", 2018. *Enrolled in Ph.D. program in Economics at the University of California, San Diego*.
+
+- Oscar González Gil, "Effect of Public Policies on CO2 Emissions from the Electricity Market in Mexico", 2018.
+
+- Juan Pablo Grimaldi, "Fuel Efficiency in the Mexican Automobile Market", 2019. *MS, Sustainability and Social Innovation, HEC Paris*.
+
+- Ricardo Enrique Miranda Montero, "Retractable Bids and Limited Liability in Mexican Oil Auctions", 2019. **Awarded second place in Citibanamex Economics Prize, 2019**. *Enrolled in Ph.D. program in Economics at Duke University*.
+
+- Arturo Soberón Cedillo, "The Redistributive Effects of the Nonlinear Price System in the Residential Electricity Market", 2019.
+
+- Paola Cymet Monroy, "Proposal for a Road Pricing Policy for the Polanco Neighborhood in Mexico City", 2020.
+
+- Fidel González Parra, "Renewable Generation and its Effects on Wholesale Electricity Market Prices", 2020.
+
+- Andres Glase Ordóñez, "Effectiveness of Transfer Pricing Legislation: The Case of OECD Countries", 2021.
+
+- Inés Valenzuela Muñoz Castillo, "Implications of Natural Gas Storage on Social Welfare: An Empirical Analysis of the Case of the US Natural Gas Market 2002-2018", 2021. *MBA, The Wharton School of the University of Pennsylvania*.
+
+- Jorge Acedo Glaros, "Fraud Prediction at Gasoline Stations Using User-Generated Review Information", 2021. *MS in Computational Social Science, University of California, San Diego*.
+
+- Juan Pablo Martínez Giorgi, "The Challenge of Financial Inclusion in Mexico", 2021.
+
+- Alfonso Lugo Sánchez, "The Digital Gap in Childhood in Mexico: A Gender Approach", 2021.
+
+- Regina Calles Martínez, "Access to Maternity Leave Benefits and their Implications on Women's Career Paths in Mexico", 2021. **Honorable Mention, ExITAM Research Prize, 2022**. *Enrolled in Ph.D. program in Economics at the University of California, San Diego*.
+
+- Diego Olea Barragán, "Market Power in Cost-Based Wholesale Electricity Markets: Evidence from Baja California Sur", 2022.
+
+- Sabrina Fajardo Gallegos, "Change in Food Consumption due to the Pandemic in the Mexican Population", 2022.
+
+- Alejandro Hernández González, "Price Dispersion in a Recently Liberalized Market: Evidence from the Retail Gasoline Market in Northern Mexico", 2022.
+
+- Andrés Villarreal Villegas, "The Cooking Fuel Transition and Mortality Rates in Mexico", 2022.
+
+- José Ignacio Avalos, "The Impact of Renewable Energies on the Prices of the Mexican Wholesale Electricity Market", 2023.
+
+- Camila Flores Fernández, "The Effect of the Digitalization of Money on the Price of Remittances", 2023.
+
+- Arantxa Martínez Aguilar, "Energy Poverty in Mexico: Residential Fuel Use and Time Use Analysis with a Gender Focus", 2023.
+
+### Undergraduate Honors Theses (Michigan)
+
+- [Jesse Buchsbaum](https://jesse-buchsbaum.com), "Water, Energy Use, and Drought: An Examination of the Cooling Systems Used by Natural Gas Power Plants", 2015. *Ph.D. in Agricultural and Resource Economics, University of California, Berkeley*.
+
+- [Karl Dunkle-Werner](https://karldw.org), "Driver Behavior and Fuel Efficiency", 2013. *Ph.D. in Agricultural and Resource Economics, University of California, Berkeley*.
+
+- [Eugene Tan](https://sites.google.com/site/econeugenetan/home), "Do price shocks change electricity consumption? Evidence from New Zealand industrial users", 2013. *Ph.D in Economics, Duke University*.
+
+- David Tigges, "Buying High and Selling Low: Pipeline Ownership and the Price Gap between WTI and Brent Crude Oil", 2012. *Master's in Economics, Johns Hopkins University*.
+
+
+### Master's Theses (ITAM)
+
+- Daniel Loredo Duran, "Loss in Social Welfare due to Electricity Rates for Charging Electric Vehicles in Mexico", 2020. *Master's in Operations Research, Columbia University*.
+
+- Ramiro Agustín Beltrán Alessio Robles, "How Does Cycling Infrastructure Affect Traffic? A Study of Permanent Bike Lanes in Mexico City", 2021. *Master of Arts in Economics, University of British Columbia*.
+
+- David Ontaneda Navarrete, "Sowing Credits: Credit Supply and Crop Choice", 2022. *Enrolled in Ph.D. program in Economics at the University of Michigan*.
+
+
+
+### Ph.D. Third Year Paper (advisor/reader) (Michigan)
+
+- Adam Larson, "Productivity and Formality: Evidence from Once-Informal Firms", 2012.
+
+- [Austin Davis](https://www.caustindavis.com), "On the Border of Privatization:
+Access and Health Following the Sale of Saneatins", 2013.
+
+- Yiyuan Zhang, "Greener Fuel, Bluer Sky? The Impact of Motor Fuel Standards on Air Quality in China", 2014.
+
+- [Ben Meiselman](https://sites.google.com/site/benmeiselman/home), "Breaching the blendwall: RINs and the market for renewable fuel", 2014.
+
+- [Sarah Johnston](https://www.sarahbjohnston.com), "A case study in subsidy choice: Examining the Section 1603 Treasury Grant Program" [[1](https://www.journals.uchicago.edu/doi/full/10.1086/702736)], 2014.
+
+- [Alecia Cassidy](https://sites.google.com/site/aleciawcassidy/) "Investment in the Heat of the Moment: Heating and Cooling Upgrades in Response to Extreme Weather", 2015.
+
+- [Meera Mahadevan](https://sites.google.com/view/meeram/home) "Unbundling the Load: How Electricity Restructuring Affects the Manufacturing Sector", 2016.
+
+- Oxana Azgaldova, "Large scale grid integrated energy storage: economic effects on renewable energy sources", 2016.
+
+
+### Ph.D. Dissertation (Committee Member) (Michigan)
+
+- [Jacqueline Doremus](https://sites.google.com/site/jdoremus/Home), "Three Essays on the Effectiveness of Voluntary Forest Certification" [[1](https://doi.org/10.1016/j.ecolecon.2019.106378)] [[2](https://doi.org/10.1016/j.jeem.2020.102344)], 2015. *Cal Poly San Luis Obispo*.
+
+- [Reid Dorsey-Palmateer](https://wp.wwu.edu/reiddp/), "Essays on the Economics of Electricity" [[1](https://doi.org/10.1016/j.tej.2019.02.007)] [[2](https://doi.org/10.1016/j.enpol.2020.111248)], 2015. *Western Washington University*.
+
+- [Eric Lewis](https://sites.google.com/site/erickylelewis/home), "Three Essays on the Economics of the Oil and Gas Industry" [[1](https://doi.org/10.1257/pol.20160373)] [[2](https://doi.org/10.1111/1756-2171.12381)], 2015. *Department of Justice, now at Bush School of Government and Service at Texas A&M University*.
+
+- Mike McWilliams, "Essays on the Economics of Land Use and Adaptation to Climate Change", 2016. *University of Michigan RSQE*.
+
+- [Paul Brehm](https://www2.oberlin.edu/faculty/pbrehm/), "Three Essays in Energy and Environmental Economics" [[1](https://doi.org/10.1016/j.reseneeco.2019.06.003)] [[2](https://doi.org/10.1111/1756-2171.12381)], 2017. *Oberlin College*.
+
+- Hope Thompson, "The expansion of renewable energy technologies and their impact on household energy portfolios and sustainable development: A study of Nepal" [[1](https://doi.org/10.1007/s10640-018-0224-1)], 2017. *FEMA*.
+
+
+### Other research team members
+
+- Daniela Borja Arriaga, Pre-doctoral Research Assistant, 2020-2022. *Enrolled in Ph.D. program in Economics at Northwestern University*.
+
+- Pedro Liedo Orozco, Research Assistant, 2018-2019. *Enrolled in Ph.D. program in Agricultural and Resource Economics at University of California, Davis*.

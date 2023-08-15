@@ -1,0 +1,30 @@
+---
+about:
+  template: trestles
+  image: images/mcrae_headshot.jpg
+  links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=rWlqLiEAAAAJ
+    - icon: envelope
+      text: Email
+      href: mailto:shaun.mcrae@itam.mx
+---
+
+# Shaun McRae
+
+I am an Assistant Professor of Economics at the [Centro de Investigación Económica](http://cie.itam.mx/en) and the [Department of Economics](https://economia.itam.mx/) at [ITAM](https://www.itam.mx/en) in Mexico City.
+
+
+### Research fields
+
+- Energy Economics
+- Environmental Economics
+- Industrial Organization
+
+### Office hours
+ 
+*During the academic semester:*<br>
+Department of Economics, Río Hondo, ITAM<br>
+Tuesdays, 11:30 a.m. - 1:00 p.m.
+

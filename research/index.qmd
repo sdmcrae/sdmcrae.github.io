@@ -1,0 +1,75 @@
+# Publications
+
+[Residential Electricity Consumption and Adaptation to Climate Change by Colombian Households](https://doi.org/10.1007/s41885-023-00131-3)<br>
+*Economics of Disasters and Climate Change*, Vol. 7, July 2023, 253–279.
+
+[Retail Pricing in Colombia to Support the Efficient Deployment of Distributed Generation and Electric Stoves](https://doi.org/10.1016/j.jeem.2021.102541)<br>
+(with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))<br>
+*Journal of Environmental Economics and Management*, Vol. 110, October 2021, 102541.<br>
+[Working paper](/files/retail-pricing-in-colombia.pdf)
+
+[Self-regulation vs state regulation: Evidence from cinema age restrictions](https://doi.org/10.1016/j.ijindorg.2021.102708)<br>
+(with [Ryan Lampe](https://www.ryanlampe.com))<br>
+*International Journal of Industrial Organization*, Vol. 75, March 2021, 102708.
+
+[An Economic Perspective on Mexico's Nascent Deregulation of Retail Petroleum Markets](https://doi.org/10.5547/2160-5890.8.2.ldav)<br>
+(with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))<br>
+*Economics of Energy & Environmental Policy*, Vol. 8, No. 2, September 2019, 181-200.
+
+[Infrastructure Quality and the Subsidy Trap](/files/infrastructure-quality-and-subsidy-trap.pdf)<br>
+*American Economic Review*, Vol. 105, No. 1, January 2015, 35-66.<br>
+[Journal website](https://doi.org/10.1257/aer.20110572)
+
+[Book review: 'The Economics of Electricity Markets: Theory and Policy'](/files/book-review-electricity-markets.pdf)<br>
+*Journal of Economic Literature*, Vol. 52, No. 2, 554--5.
+
+[How Do Firms Exercise Unilateral Market Power? Evidence from a Bid-Based Wholesale 
+Electricity Market](/files/how-do-firms-exercise-market-power.pdf)<br>
+(with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))<br>
+In *Manufacturing Markets: Legal, Political and Economic Dynamics*, Eric Brousseau and Jean-Michel Glachant (eds), Cambridge University Press, 2014.
+
+[Merger Analysis in Restructured Electricity Supply Industries: The Proposed PSEG and 
+Exelon Merger (2006)](/files/merger-analysis-in-restructured-electricity.pdf)<br>
+(with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))<br>
+In *The Antitrust Revolution: Economics, Competition and Policy*, John E. Kwoka and Lawrence J. White (eds), Oxford University Press, 2009.
+
+[Testing the convergence hypothesis: a new approach](https://doi.org/10.1016/S0165-1765(99)00099-3)<br>
+(with [Erkin Bairam](https://www.researchgate.net/scientific-contributions/Erkin-I-Bairam-2033580085))<br>
+*Economics Letters*, Vol. 64, 1999, 351-355.
+
+
+# Working papers
+
+[Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging](/files/fueling-alternatives.pdf)<br>
+(with [Jackson Dorsey](https://www.jacksonfdorsey.com) and [Ashley Langer](https://www.ashleylanger.com))<br>
+Revisions requested at *American Economic Journal: Economic Policy*.
+
+[The competitive effects of entry in the deregulated Mexican gasoline market](/files/competitive-effects-entry-gasoline.pdf)<br>
+(with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))
+
+[Market Power and Incentive-Based Capacity Payment Mechanisms](/files/capacity-payment-mechanism.pdf)
+(with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/)).
+
+[Why Are Connection Charges So High? An Analysis of the Electricity Sector in Sub-Saharan Africa](/files/why-are-connection-charges-so-high.pdf)<br>
+(with [Moussa Blimpo](https://sites.google.com/site/mpblimpo/welcome-cv) and [Jevgenijs Steinbuks](http://www.steinbuks.info)).
+
+Crude Oil Price Differentials and Pipeline Infrastructure.
+
+Market Power in a Hydro-Dominated Wholesale Electricity Market<br>
+(with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/)).
+
+Price Perceptions and Electricity Demand with Nonlinear Prices<br>
+(with [Robyn Meeks](http://www.robynmeeks.com)).
+
+Vertical Integration and Price Differentials in the U.S. Crude Oil Market.
+
+Step on It: A New Approach to Improving Vehicle Fuel Economy<br>
+(with [Ashley Langer](https://www.ashleylanger.com)).
+
+Efficiency and Equity Effects of Electricity Metering: Evidence from Colombia.
+
+
+# Technical reports
+
+[Diagnosing the Causes of the Recent El Niño Event and Recommendations for Reform](/files/diagnosing-el-nino.pdf)<br>
+(with Frank Wolak).
