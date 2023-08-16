@@ -23,6 +23,7 @@ website:
         text: About
   page-footer:
     background: "#536878"
+  google-analytics: "G-KRNJ4R0R78"
 
 date-format: "D MMMM YYYY"
 
