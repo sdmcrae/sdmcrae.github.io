@@ -28,6 +28,9 @@ website:
 
 date-format: "D MMMM YYYY"
 
+resources:
+  - CNAME
+  
 format:
   html:
     theme: tango
