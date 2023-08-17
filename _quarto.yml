@@ -9,7 +9,7 @@ execute:
 
 website:
   title: "Shaun McRae"
-  site-url: "https://sdmcrae.github.io"
+  site-url: "https://www.sdmcrae.com"
   navbar:
     background: "#536878"
     left:
@@ -24,6 +24,7 @@ website:
   page-footer:
     background: "#536878"
   google-analytics: "G-KRNJ4R0R78"
+  favicon: "favicon-32x32.png"
 
 date-format: "D MMMM YYYY"
 
