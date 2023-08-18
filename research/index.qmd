@@ -3,18 +3,19 @@
 [Residential Electricity Consumption and Adaptation to Climate Change by Colombian Households](https://doi.org/10.1007/s41885-023-00131-3)<br>
 *Economics of Disasters and Climate Change*, Vol. 7, July 2023, 253–279.
 
-[Retail Pricing in Colombia to Support the Efficient Deployment of Distributed Generation and Electric Stoves](https://doi.org/10.1016/j.jeem.2021.102541)<br>
+[Retail Pricing in Colombia to Support the Efficient Deployment of Distributed Generation and Electric Stoves](/files/retail-pricing-in-colombia.pdf)<br>
 (with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))<br>
 *Journal of Environmental Economics and Management*, Vol. 110, October 2021, 102541.<br>
-[Working paper](/files/retail-pricing-in-colombia.pdf)
+[Journal website](https://doi.org/10.1016/j.jeem.2021.102541)
 
 [Self-regulation vs state regulation: Evidence from cinema age restrictions](https://doi.org/10.1016/j.ijindorg.2021.102708)<br>
 (with [Ryan Lampe](https://www.ryanlampe.com))<br>
 *International Journal of Industrial Organization*, Vol. 75, March 2021, 102708.
 
-[An Economic Perspective on Mexico's Nascent Deregulation of Retail Petroleum Markets](https://doi.org/10.5547/2160-5890.8.2.ldav)<br>
+[An Economic Perspective on Mexico's Nascent Deregulation of Retail Petroleum Markets](/files/mexico-deregulation-petroleum.pdf)<br>
 (with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))<br>
-*Economics of Energy & Environmental Policy*, Vol. 8, No. 2, September 2019, 181-200.
+*Economics of Energy & Environmental Policy*, Vol. 8, No. 2, September 2019, 181-200.<br>
+[Journal website](https://doi.org/10.5547/2160-5890.8.2.ldav)
 
 [Infrastructure Quality and the Subsidy Trap](/files/infrastructure-quality-and-subsidy-trap.pdf)<br>
 *American Economic Review*, Vol. 105, No. 1, January 2015, 35-66.<br>
