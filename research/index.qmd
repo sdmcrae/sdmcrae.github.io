@@ -1,4 +1,8 @@
 # Publications
+[Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging](/files/fueling-alternatives.pdf)<br>
+(with [Jackson Dorsey](https://www.jacksonfdorsey.com) and [Ashley Langer](https://www.ashleylanger.com))<br>
+Conditionally accepted at *American Economic Journal: Economic Policy*.<br>
+[NBER Digest](https://www.nber.org/digest/202206/design-trade-offs-electric-vehicle-charging-networks)
 
 [Residential Electricity Consumption and Adaptation to Climate Change by Colombian Households](https://doi.org/10.1007/s41885-023-00131-3)<br>
 *Economics of Disasters and Climate Change*, Vol. 7, July 2023, 253–279.
@@ -41,12 +45,7 @@ In *The Antitrust Revolution: Economics, Competition and Policy*, John E. Kwoka 
 
 # Working papers
 
-[Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging](/files/fueling-alternatives.pdf)<br>
-(with [Jackson Dorsey](https://www.jacksonfdorsey.com) and [Ashley Langer](https://www.ashleylanger.com))<br>
-Conditionally accepted at *American Economic Journal: Economic Policy*.<br>
-[NBER Digest](https://www.nber.org/digest/202206/design-trade-offs-electric-vehicle-charging-networks)
-
-[The competitive effects of entry in the deregulated Mexican gasoline market](/files/competitive-effects-entry-gasoline.pdf)<br>
+[Competitive Effects of Entry in Gasoline Markets](/files/competitive-effects-entry-gasoline.pdf)<br>
 (with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))
 
 [Market Power and Incentive-Based Capacity Payment Mechanisms](/files/capacity-payment-mechanism.pdf)
