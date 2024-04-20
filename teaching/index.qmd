@@ -1,9 +1,9 @@
-# Industrial Organization (Fall 2023)
+# Industrial Organization (Spring 2023)
 
 This semester, I will be teaching two sections of undergraduate Industrial Organization (*ECO	14301	ORGANIZACION INDUSTRIAL*):
 
-- Section 1: Tuesdays and Thursdays, 8:30 - 10:00 a.m. in PF107
-- Section 2: Tuesdays and Thursdays, 10:00 - 11:30 a.m. in PF107
+- Section 1: Tuesdays and Thursdays, 8:30 - 10:00 a.m. in PF106
+- Section 2: Tuesdays and Thursdays, 10:00 - 11:30 a.m. in PF106
 
 This course will study how firms compete with each other in imperfectly competitive markets. We will start with a brief review of the basic concepts from consumer and producer theory. The remainder of the course will focus on firms' price and non-price strategies in the case of oligopoly. Examples of the topics covered include price discrimination, collusion, horizontal mergers, predatory pricing, vertical restraints, product differentiation, research and development, and network effects.
 
