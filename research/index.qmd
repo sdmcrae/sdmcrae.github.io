@@ -2,12 +2,12 @@
 
 [Competitive Effects of Entry in Gasoline Markets](/files/competitive-effects-entry-gasoline.pdf)<br>
 (with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))<br>
-Revise and resubmit at *Journal of Industrial Economics*. 2nd place in the *Premio Citibanamex de Economía*.
+Revise and resubmit at *Journal of Industrial Economics*. 2nd place in the *Premio Citibanamex de Economía*. [EI Blog Post](https://energyathaas.wordpress.com/2023/12/11/does-station-competition-drive-gas-prices/)
+
+[Efficiency and Equity Effects of Electricity Metering: Evidence from Colombia](/files/electricity-metering.pdf)<br>
 
 [Electricity Pricing for the Energy Transition](/files/electricity-pricing-energy-transition.pdf)<br>
 (with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))
-
-[Efficiency and Equity Effects of Electricity Metering: Evidence from Colombia](/files/electricity-metering.pdf)<br>
 
 [Market Power and Incentive-Based Capacity Payment Mechanisms](/files/capacity-payment-mechanism.pdf)<br>
 (with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))
@@ -25,12 +25,12 @@ Forthcoming at *American Economic Journal: Economic Policy*.<br>
 
 [Residential Electricity Consumption and Adaptation to Climate Change by Colombian Households](/files/electricity-consumption-and-adaptation.pdf)<br>
 *Economics of Disasters and Climate Change*, Vol. 7, July 2023, 253–279.<br>
-[Journal Website](https://doi.org/10.1007/s41885-023-00131-3)
+[Journal Website](https://doi.org/10.1007/s41885-023-00131-3) | [IDB Working Paper](https://www.econstor.eu/handle/10419/289924)
 
 [Retail Pricing in Colombia to Support the Efficient Deployment of Distributed Generation and Electric Stoves](/files/retail-pricing-in-colombia.pdf)<br>
 (with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))<br>
 *Journal of Environmental Economics and Management*, Vol. 110, October 2021, 102541.<br>
-[Journal Website](https://doi.org/10.1016/j.jeem.2021.102541)
+[Journal Website](https://doi.org/10.1016/j.jeem.2021.102541) | [IDB Working Paper](https://www.econstor.eu/handle/10419/234652)
 
 [Self-regulation vs state regulation: Evidence from cinema age restrictions](/files/self-regulation-versus-state-regulation.pdf)<br>
 (with [Ryan Lampe](https://www.ryanlampe.com))<br>
@@ -40,7 +40,7 @@ Forthcoming at *American Economic Journal: Economic Policy*.<br>
 [An Economic Perspective on Mexico's Nascent Deregulation of Retail Petroleum Markets](/files/mexico-deregulation-petroleum.pdf)<br>
 (with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))<br>
 *Economics of Energy & Environmental Policy*, Vol. 8, No. 2, September 2019, 181-200.<br>
-[Journal Website](https://doi.org/10.5547/2160-5890.8.2.ldav)
+[Journal Website](https://doi.org/10.5547/2160-5890.8.2.ldav) | [EI Blog Post](https://energyathaas.wordpress.com/2016/07/11/move-over-pemex/)
 
 [Infrastructure Quality and the Subsidy Trap](/files/infrastructure-quality-and-subsidy-trap.pdf)<br>
 *American Economic Review*, Vol. 105, No. 1, January 2015, 35-66.<br>
@@ -55,7 +55,7 @@ Forthcoming at *American Economic Journal: Economic Policy*.<br>
 # Other Publications
 
 [Diagnosing the Causes of the Recent El Niño Event and Recommendations for Reform](/files/diagnosing-el-nino.pdf)<br>
-(with Frank Wolak).
+(with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/)).
 
 [Book review: 'The Economics of Electricity Markets: Theory and Policy'](/files/book-review-electricity-markets.pdf)<br>
 *Journal of Economic Literature*, Vol. 52, No. 2, 554--5.
@@ -93,4 +93,10 @@ In *The Antitrust Revolution: Economics, Competition and Policy*, John E. Kwoka 
 
 # Work in Progress
 
+Avoiding tax on cars and its enviromental implications in Mexico<br>
+(with [Pedro Liedo](https://are.ucdavis.edu/people/grad-students/phd/pedro-liedo-orozco/))
+
+Financing the energy transition: Evidence from natural gas adoption
+
+Market power in cost-based wholesale electricity markets: Evidence from Mexico
 
