@@ -1,20 +1,23 @@
-# Publications
+# Journal Publications
+
 [Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging](/files/fueling-alternatives.pdf)<br>
 (with [Jackson Dorsey](https://www.jacksonfdorsey.com) and [Ashley Langer](https://www.ashleylanger.com))<br>
-Accepted at *American Economic Journal: Economic Policy*.<br>
-[NBER Digest](https://www.nber.org/digest/202206/design-trade-offs-electric-vehicle-charging-networks)
+Forthcoming at *American Economic Journal: Economic Policy*.<br>
+[Journal Website](https://www.aeaweb.org/articles?id=10.1257/pol.20220130) | [Online Appendix](/files/fueling-alternatives-appendix.pdf) | [NBER Digest](https://www.nber.org/digest/202206/design-trade-offs-electric-vehicle-charging-networks)
 
-[Residential Electricity Consumption and Adaptation to Climate Change by Colombian Households](https://doi.org/10.1007/s41885-023-00131-3)<br>
-*Economics of Disasters and Climate Change*, Vol. 7, July 2023, 253–279.
+[Residential Electricity Consumption and Adaptation to Climate Change by Colombian Households](/files/electricity-consumption-and-adaptation.pdf)<br>
+*Economics of Disasters and Climate Change*, Vol. 7, July 2023, 253–279.<br>
+[Journal Website](https://doi.org/10.1007/s41885-023-00131-3)
 
 [Retail Pricing in Colombia to Support the Efficient Deployment of Distributed Generation and Electric Stoves](/files/retail-pricing-in-colombia.pdf)<br>
 (with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))<br>
 *Journal of Environmental Economics and Management*, Vol. 110, October 2021, 102541.<br>
 [Journal website](https://doi.org/10.1016/j.jeem.2021.102541)
 
-[Self-regulation vs state regulation: Evidence from cinema age restrictions](https://doi.org/10.1016/j.ijindorg.2021.102708)<br>
+[Self-regulation vs state regulation: Evidence from cinema age restrictions](/files/self-regulation-versus-state-regulation.pdf)<br>
 (with [Ryan Lampe](https://www.ryanlampe.com))<br>
 *International Journal of Industrial Organization*, Vol. 75, March 2021, 102708.
+[Journal website](https://doi.org/10.1016/j.ijindorg.2021.102708)
 
 [An Economic Perspective on Mexico's Nascent Deregulation of Retail Petroleum Markets](/files/mexico-deregulation-petroleum.pdf)<br>
 (with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))<br>
@@ -24,6 +27,17 @@ Accepted at *American Economic Journal: Economic Policy*.<br>
 [Infrastructure Quality and the Subsidy Trap](/files/infrastructure-quality-and-subsidy-trap.pdf)<br>
 *American Economic Review*, Vol. 105, No. 1, January 2015, 35-66.<br>
 [Journal website](https://doi.org/10.1257/aer.20110572)
+
+[Testing the convergence hypothesis: a new approach](/files/testing-the-convergence-hypothesis.pdf)<br>
+(with [Erkin Bairam](https://www.researchgate.net/scientific-contributions/Erkin-I-Bairam-2033580085))<br>
+*Economics Letters*, Vol. 64, 1999, 351-355.<br>
+[Journal website](https://doi.org/10.1016/S0165-1765(99)00099-3)
+
+
+# Other Publications
+
+[Diagnosing the Causes of the Recent El Niño Event and Recommendations for Reform](/files/diagnosing-el-nino.pdf)<br>
+(with Frank Wolak).
 
 [Book review: 'The Economics of Electricity Markets: Theory and Policy'](/files/book-review-electricity-markets.pdf)<br>
 *Journal of Economic Literature*, Vol. 52, No. 2, 554--5.
@@ -38,12 +52,8 @@ Exelon Merger (2006)](/files/merger-analysis-in-restructured-electricity.pdf)<br
 (with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))<br>
 In *The Antitrust Revolution: Economics, Competition and Policy*, John E. Kwoka and Lawrence J. White (eds), Oxford University Press, 2009.
 
-[Testing the convergence hypothesis: a new approach](https://doi.org/10.1016/S0165-1765(99)00099-3)<br>
-(with [Erkin Bairam](https://www.researchgate.net/scientific-contributions/Erkin-I-Bairam-2033580085))<br>
-*Economics Letters*, Vol. 64, 1999, 351-355.
 
-
-# Working papers
+# Working Papers
 
 [Competitive Effects of Entry in Gasoline Markets](/files/competitive-effects-entry-gasoline.pdf)<br>
 (with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))
@@ -53,6 +63,12 @@ In *The Antitrust Revolution: Economics, Competition and Policy*, John E. Kwoka 
 
 [Why Are Connection Charges So High? An Analysis of the Electricity Sector in Sub-Saharan Africa](/files/why-are-connection-charges-so-high.pdf)<br>
 (with [Moussa Blimpo](https://sites.google.com/site/mpblimpo/welcome-cv) and [Jevgenijs Steinbuks](http://www.steinbuks.info)).
+
+Efficiency and Equity Effects of Electricity Metering: Evidence from Colombia.
+
+
+
+# Older Working Papers
 
 Crude Oil Price Differentials and Pipeline Infrastructure.
 
@@ -67,10 +83,7 @@ Vertical Integration and Price Differentials in the U.S. Crude Oil Market.
 Step on It: A New Approach to Improving Vehicle Fuel Economy<br>
 (with [Ashley Langer](https://www.ashleylanger.com)).
 
-Efficiency and Equity Effects of Electricity Metering: Evidence from Colombia.
+
+# Work in Progress
 
 
-# Technical reports
-
-[Diagnosing the Causes of the Recent El Niño Event and Recommendations for Reform](/files/diagnosing-el-nino.pdf)<br>
-(with Frank Wolak).
