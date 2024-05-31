@@ -1,4 +1,22 @@
-# Journal Publications
+# Working Papers
+
+[Competitive Effects of Entry in Gasoline Markets](/files/competitive-effects-entry-gasoline.pdf)<br>
+(with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))<br>
+Revise and resubmit at *Journal of Industrial Economics*. 2nd place in the *Premio Citibanamex de Economía*.
+
+[Electricity Pricing for the Energy Transition](/files/electricity-pricing-energy-transition.pdf)<br>
+(with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))
+
+[Efficiency and Equity Effects of Electricity Metering: Evidence from Colombia](/files/electricity-metering.pdf)<br>
+
+[Market Power and Incentive-Based Capacity Payment Mechanisms](/files/capacity-payment-mechanism.pdf)<br>
+(with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/))
+
+[Why Are Connection Charges So High? An Analysis of the Electricity Sector in Sub-Saharan Africa](/files/why-are-connection-charges-so-high.pdf)<br>
+(with [Moussa Blimpo](https://sites.google.com/site/mpblimpo/welcome-cv) and [Jevgenijs Steinbuks](http://www.steinbuks.info))
+
+
+# Published Papers
 
 [Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging](/files/fueling-alternatives.pdf)<br>
 (with [Jackson Dorsey](https://www.jacksonfdorsey.com) and [Ashley Langer](https://www.ashleylanger.com))<br>
@@ -16,7 +34,7 @@ Forthcoming at *American Economic Journal: Economic Policy*.<br>
 
 [Self-regulation vs state regulation: Evidence from cinema age restrictions](/files/self-regulation-versus-state-regulation.pdf)<br>
 (with [Ryan Lampe](https://www.ryanlampe.com))<br>
-*International Journal of Industrial Organization*, Vol. 75, March 2021, 102708.
+*International Journal of Industrial Organization*, Vol. 75, March 2021, 102708.<br>
 [Journal website](https://doi.org/10.1016/j.ijindorg.2021.102708)
 
 [An Economic Perspective on Mexico's Nascent Deregulation of Retail Petroleum Markets](/files/mexico-deregulation-petroleum.pdf)<br>
@@ -53,21 +71,6 @@ Exelon Merger (2006)](/files/merger-analysis-in-restructured-electricity.pdf)<br
 In *The Antitrust Revolution: Economics, Competition and Policy*, John E. Kwoka and Lawrence J. White (eds), Oxford University Press, 2009.
 
 
-# Working Papers
-
-[Competitive Effects of Entry in Gasoline Markets](/files/competitive-effects-entry-gasoline.pdf)<br>
-(with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.com))
-
-[Market Power and Incentive-Based Capacity Payment Mechanisms](/files/capacity-payment-mechanism.pdf)
-(with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/)).
-
-[Why Are Connection Charges So High? An Analysis of the Electricity Sector in Sub-Saharan Africa](/files/why-are-connection-charges-so-high.pdf)<br>
-(with [Moussa Blimpo](https://sites.google.com/site/mpblimpo/welcome-cv) and [Jevgenijs Steinbuks](http://www.steinbuks.info)).
-
-Efficiency and Equity Effects of Electricity Metering: Evidence from Colombia.
-
-
-
 # Older Working Papers
 
 Crude Oil Price Differentials and Pipeline Infrastructure.
@@ -75,12 +78,13 @@ Crude Oil Price Differentials and Pipeline Infrastructure.
 Market Power in a Hydro-Dominated Wholesale Electricity Market<br>
 (with [Frank Wolak](https://web.stanford.edu/group/fwolak/cgi-bin/)).
 
-Price Perceptions and Electricity Demand with Nonlinear Prices<br>
+[Price Perceptions and Electricity Demand with Nonlinear Prices](/files/price-perceptions.pdf)<br>
 (with [Robyn Meeks](http://www.robynmeeks.com)).
 
-Vertical Integration and Price Differentials in the U.S. Crude Oil Market.
+Vertical Integration and Price Differentials in the U.S. Crude Oil Market
+Public Utility Research Center Prize for the Best Paper in Regulatory Economics
 
-Step on It: A New Approach to Improving Vehicle Fuel Economy<br>
+[Step on It: A New Approach to Improving Vehicle Fuel Economy](/files/step-on-it-fuel-economy.pdf)<br>
 (with [Ashley Langer](https://www.ashleylanger.com)).
 
 
