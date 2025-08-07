@@ -1,8 +1,5 @@
 # Working Papers
 
-Rethinking Wholesale Market Design for New Zealand's Clean Energy Transition<br>
-Revise and resubmit at the *Electricity Journal*.
-
 [Efficiency and Equity Effects of Electricity Metering: Evidence from Colombia](/files/electricity-metering.pdf)<br>
 
 [Electricity Pricing for the Energy Transition](/files/electricity-pricing-energy-transition.pdf)<br>
@@ -16,6 +13,9 @@ Revise and resubmit at the *Electricity Journal*.
 
 
 # Published Papers
+
+Rethinking Wholesale Market Design for New Zealand's Clean Energy Transition<br>
+Accepted at the *Electricity Journal*.
 
 [Competitive Effects of Entry in Gasoline Markets](/files/competitive-effects-entry-gasoline.pdf)<br>
 (with [Lucas Davis](https://faculty.haas.berkeley.edu/ldavis/) and [Enrique Seira](http://enriqueseira.weebly.com))<br>
