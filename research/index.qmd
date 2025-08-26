@@ -14,7 +14,7 @@
 
 # Published Papers
 
-Rethinking Wholesale Market Design for New Zealand's Clean Energy Transition<br>
+[Rethinking Wholesale Market Design for New Zealand's Clean Energy Transition](/files/rethinking-market-design.pdf)<br>
 Accepted at the *Electricity Journal*.
 
 [Competitive Effects of Entry in Gasoline Markets](/files/competitive-effects-entry-gasoline.pdf)<br>
