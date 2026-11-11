@@ -8,7 +8,7 @@ about:
       href: https://scholar.google.com/citations?user=rWlqLiEAAAAJ
     - icon: envelope
       text: Email
-      href: mailto:shaun.mcrae@itam.mx
+      href: mailto:shaun.mcrae@fastmail.com
 ---
 
 # Shaun McRae
